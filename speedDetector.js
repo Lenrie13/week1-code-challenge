@@ -14,7 +14,7 @@ function speedDetector(driverSpeed) {
     } else {
         return `You have earned ${demeritPoints} demerit points! `;
     }
-}
+};
 
 console.log(speedDetector(168));
 
